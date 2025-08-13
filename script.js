@@ -1,14 +1,3 @@
-// ==UserScript==
-// @name         Shikimori genres
-// @namespace    http://tampermonkey.net/
-// @version      2025-08-13
-// @description  Returns back blocked genres
-// @author       chumyshhh
-// @match        https://shikimori.one/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=shikimori.one
-// @grant        none
-// ==/UserScript==
-
 const delay = ms => new Promise(res => setTimeout(res, ms));
 
 const animesGenres = [
