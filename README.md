@@ -1,5 +1,5 @@
 # Shikimori Genres
-Дополнение возвращает удаленные жанры с сайта <a href="https://shikimori.one">shikimori</a>
+Дополнение возвращает удаленные "ай" жанры с сайта <a href="https://shikimori.one">shikimori</a>
 
 ## Установка
 ### Tampermonkey
